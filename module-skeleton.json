@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-content-access-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-content-access",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-content-access-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/content-access.md",
+  "presentationPlan": "projects/cms/nuxt/content-access.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
